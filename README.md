@@ -2,6 +2,9 @@
 ============================================
 Aplikasi Kriptografi AES-256 (CBC)
 Tugas Mata Kuliah Keamanan Data
+Nama: Muhammad Fikri Hanif
+NIM: 103052300118
+Kelas: DS-47-03
 ============================================
 
 Program ini adalah aplikasi CLI sederhana untuk mengenkripsi dan mendekripsi
